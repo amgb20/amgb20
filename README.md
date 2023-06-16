@@ -10,7 +10,9 @@ I am a future mechanical and electrical engineer
 
 ![](https://komarev.com/ghpvc/?username=amgb20)
 
-# Contact 	:iphone:
+## Contact :iphone:
+
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/alexandre-benoit-belieth/)
 
 
 
